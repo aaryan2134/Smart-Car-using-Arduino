@@ -5,5 +5,14 @@ Using arduino to make an automatic car with road cleaning, temperature based Air
 
 ![Accessory System Circuit Diagram](https://github.com/aaryan2134/Smart-Car-using-Arduino/blob/b8e2b2f830e75f8fa81f20f0c0def755622ff1a8/circuit%20diagram%202.png)
 ![Driving System Circuit Diagram](circuit%20diagram%201.png)
+![Accessory System Circuit Diagram](circuit%20diagram%203.png)
+![Driving System Circuit Diagram](circuit%20diagram%204.png)
+
+
+## Initial Testing Phase
+
+![Test 1](Initial%20Testing%202.jpg)
+![Test 2](Initial%20Testing.jpg)
+
 
 [Prototype Video Link](https://youtu.be/BLX8ju8Vj1I)
