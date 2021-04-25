@@ -3,6 +3,6 @@ Using arduino to make an automatic car with road cleaning, temperature based Air
 
 ## Circuit Diagram
 
-![alt text](circuit diagram 2.png)
+![alt text](relative/path/to/circuit-diagram-2.png)
 
 [Prototype Video Link](https://youtu.be/BLX8ju8Vj1I)
